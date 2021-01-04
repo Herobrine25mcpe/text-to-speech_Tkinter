@@ -59,7 +59,6 @@ def tpages():
     plabel = Label(tab2, text="total pages:" + str(pages))
     plabel.grid(row=3)
 
-
 def text_():
     speaker = pyttsx3.init()
     #Voice
@@ -79,7 +78,6 @@ def rbutton(value):
     else:
         label1 = Label(tab3, text="Voice: Female")
         label1.grid(row=12)
-
 
 def scale(s):
     label = Label(tab3, text="Rate: " + str(range1.get()))
