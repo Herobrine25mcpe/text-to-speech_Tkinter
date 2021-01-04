@@ -7,4 +7,4 @@ So in order to make it work you need to install a few things to get the whole th
 you need to install pyttsx3, which is the python library for text to speech.
 and install PyPDF2, which is the python library for messing around with the pdf files.
 
-after you pip install both of these library. the code should work without any problem
+after you pip install both of these library. the code should work without any problem.
