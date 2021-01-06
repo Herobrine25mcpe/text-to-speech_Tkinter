@@ -10,7 +10,6 @@ window.configure(bg="grey15")
 v = IntVar()
 v.set("0")
 
-
 def audio():
     #Voice
     speaker = pyttsx3.init()
@@ -22,7 +21,6 @@ def audio():
     speaker.say(textbox.get("1.0", END))
     speaker.runAndWait()
 
-
 def rbutton(value):
     if value==0:
         label1= Label(window, text = "Voice: Male  ")
@@ -30,12 +28,8 @@ def rbutton(value):
     else:
         label1 = Label(window, text="Voice: Female")
 
-
-
 #frame
-
 frame = Frame(window, pady= 5, padx = 5).grid(row = 1, column = 0 , sticky = "nsew")
-
 
 #Enter text label
 label1 = Label(window, text = "\u2193ENTER TEXT HERE\u2193", font = ("Arial", 15),bg="grey30")
