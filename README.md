@@ -23,6 +23,8 @@ after you pip install both of these library. the code should work without any pr
 # Pdf box
 Select a pdf file and then check the number of pages. 
 
+Then you can select starting page and end page of the pdf and then open the pdf. The text from defiened pages will get inserted into the textbox, from hear just hit convert and you can hear the text no problem.
+
 ![](images/pdf.png)
 
 # Settings box
