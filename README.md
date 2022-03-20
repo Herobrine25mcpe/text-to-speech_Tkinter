@@ -15,5 +15,11 @@ and install PyPDF2, which is the python library for messing around with the pdf 
 
 after you pip install both of these library. the code should work without any problem.
 
-Text
-![](image/text.png)
+# Text box
+![](images/text.png)
+# Pdf box
+![](images/pdf.png)
+# Settings box
+![](images/settings.png)
+
+
