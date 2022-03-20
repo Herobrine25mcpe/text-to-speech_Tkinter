@@ -21,6 +21,7 @@ after you pip install both of these library. the code should work without any pr
 ![](images/text.png)
 
 # Pdf box
+Select a pdf file and then check the number of pages. 
 
 ![](images/pdf.png)
 
