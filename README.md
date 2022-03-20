@@ -21,13 +21,14 @@ after you pip install both of these library. the code should work without any pr
 ![](images/text.png)
 
 # Pdf box
-Select a pdf file and then check the number of pages. 
-
-Then you can select starting page and end page of the pdf and then open the pdf. The text from defiened pages will get inserted into the textbox, from hear just hit convert and you can hear the text no problem.
+ Select a pdf file and then check the number of pages. 
+ Then you can select starting page and end page of the pdf and then open the pdf. The text from defiened pages will get inserted into the textbox, from hear     just hit convert and you can hear the text no problem.
 
 ![](images/pdf.png)
 
 # Settings box
+You can select male or female voice here and also the rate at which the speaker talks. 
+the rate goes from -100(slowest) to 100(fastest)
 
 ![](images/settings.png)
 
