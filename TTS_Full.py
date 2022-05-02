@@ -7,7 +7,7 @@ import threading
 
 window = Tk()
 window.title("AudiobookAI")
-window.geometry('350x500')
+window.geometry('390x540')
 
 v = IntVar()
 v.set("0")
